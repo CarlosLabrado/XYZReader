@@ -9,5 +9,11 @@
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="keyline1">16dp</dimen>
     <dimen name="keyline2">72dp</dimen>
+    <dimen name="init_scroll_up_distance">40dp</dimen>
+
+    <item name="match_parent"
+          format="integer"
+          type="dimen">-1
+    </item>
 
 </resources>
