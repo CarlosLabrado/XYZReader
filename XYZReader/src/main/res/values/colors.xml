@@ -28,7 +28,7 @@
     <color name="colorSecondary">@color/light_blue_700</color>
     <color name="colorPrimaryDarker">@color/light_blue_900</color>
 
-    <color name="accent">@color/red_A400</color>
+    <color name="accent">@color/orange_A200</color>
     <color name="accent_dark">@color/red_900</color>
 
 
